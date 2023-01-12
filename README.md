@@ -8,7 +8,7 @@
 
 - Microsoft Office (Excel, PowerPoint, Word)
 - Python (Pandas, Numpy, Scipy, Matplotlib)
-- SQL (, MySQL)
+- SQL (MySQL)
 - LaTex
 
 # Projects
