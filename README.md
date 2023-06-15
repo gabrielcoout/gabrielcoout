@@ -7,9 +7,9 @@
 # Tecnologias
 
 - Microsoft Office (Excel, PowerPoint, Word)
-- Python (Pandas, Numpy, Scipy, Matplotlib)
-- SQL (MySQL)
-- LaTex
+- Python (Pandas, Numpy, Scipy, Matplotlib, TKinter)
+- SQL (MySQL, Bigquery, PostgreSQL)
+- LaTex e Markdown
 
 # Projects
 
