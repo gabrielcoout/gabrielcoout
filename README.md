@@ -18,4 +18,8 @@ Estudante de Matemática Aplicada e Computação Científica do Instituto de Mat
   <a href="https://www.linkedin.com/in/gabrielcoout/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
+  <p align="center">
+  <a href="[https://www.linkedin.com/in/gabrielcoout/](https://medium.com/@gabriel.coutinho.chaves)" alt="Medium">
+    <img src="[https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
