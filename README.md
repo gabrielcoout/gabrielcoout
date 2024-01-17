@@ -1,15 +1,12 @@
 # About me 
-
+Estudante de Matemática Aplicada e Computação Científica do Instituto de Matemática e Computação (ICMC) da Universidade de São Paulo (USP). Apaixonado por matemática, computação e estatística. Entusiasmado em utilizar métodos numéricos e computacionais para a resolução de problemas reais.
 
 # Skills
 
-
-# Tecnologias
-
-- Microsoft Office (Excel, PowerPoint, Word)
 - Python (Pandas, Numpy, Scipy, Matplotlib, TKinter)
 - SQL (MySQL, Bigquery, PostgreSQL)
 - LaTex e Markdown
+- Microsoft Office (Excel, PowerPoint, Word)
 
 # Projects
 
