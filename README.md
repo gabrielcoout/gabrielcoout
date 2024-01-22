@@ -8,8 +8,6 @@ Estudante de Matemática Aplicada e Computação Científica do Instituto de Mat
 - LaTex e Markdown
 - Microsoft Office (Excel, PowerPoint, Word)
 
-# Projects
-
 
 <div>
   <center>
