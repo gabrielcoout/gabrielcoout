@@ -8,7 +8,7 @@ Estudante de Matemática Aplicada e Computação Científica do Instituto de Mat
 - LaTex e Markdown
 - Microsoft Office (Excel, PowerPoint, Word)
 
-  <center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoout&layout=donut)](https://github.com/gabrielcoout/github-readme-stats)</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoout&layout=donut)](https://github.com/gabrielcoout/github-readme-stats)
 
 
 <div>
