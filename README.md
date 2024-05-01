@@ -8,6 +8,8 @@ Estudante de Matemática Aplicada e Computação Científica do Instituto de Mat
 - LaTex e Markdown
 - Microsoft Office (Excel, PowerPoint, Word)
 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div>
   <center>
