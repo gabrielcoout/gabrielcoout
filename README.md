@@ -1,61 +1,39 @@
-## 🧠 Sobre Mim
+Gabriel Coutinho Chaves
+👋 Hi, I'm Gabriel! I'm an undergraduate student in Applied Mathematics and Computer Science at the University of São Paulo (USP).
 
-Atuo em projetos que combinam **ciência de dados, estatística aplicada e desenvolvimento em Python**, com foco em resolver problemas práticos e extrair valor de dados complexos. Tenho experiência com:
+I'm passionate about optimization, statistics, data analysis, and programming. I'm currently seeking internship opportunities in data analysis, business intelligence, data engineering, or financial markets.
 
-- 📊 **Inferência Estatística**, Regressão, Análise Multivariada
-- 🧮 **Otimização Matemática**, Álgebra Linear e Análise Numérica
-- 💻 **Programação Python** com foco em Pandas, NumPy, SciPy, Matplotlib, Seaborn e SQLite
-- 🐘 **Banco de Dados** com **PostgreSQL** e **SQLite**
-- 🐧 Ferramentas: Linux, Git, Docker, Bash, Power BI, LaTeX
+💼 Experience
+PEEG Fellow - Teaching Assistant @ University of São Paulo (USP) (Mar/2025 – Jun/2025)
 
----
+Provided pedagogical support in laboratory classes and office hours, assisting undergraduate students in learning the C programming language.
 
-## 💼 Experiência
+Statistics Project Analyst @ ICMC Júnior – USP (Sep/2024 – Present)
 
-- **Monitor PEEG (USP)** — Suporte no ensino de programação em C  
-  *(Mar/2025 – Atual)*  
-- **ICMC Júnior – USP**  
-  *Assessor de Estatística e Marketing*  
-  Desenvolvi análises psicométricas com Python, contribuí para o software Jamovi e atuei com Google Ads.  
-  *(Set/2024 – Atual)*
+Developed psychometric analyses with Python, contributed to the open-source software Jamovi, and worked with Google Ads for marketing campaigns.
 
----
+🧪 Relevant Projects
+🔢 Simplex Method Implementation
 
-## 🧪 Projetos Relevantes
+Developed a Two-Phase Simplex Method using Object-Oriented Programming in Python.
 
-- **🔢 Implementação do Método Simplex**  
-  Método Simplex de Duas Fases com OOP em Python.
+🎧 Audio Compression with SVD
 
-- **🎧 Compressão de Áudio com SVD**  
-  Análise espectral de áudio usando STFT e SVD para compressão e reconstrução do sinal.
+Performed spectral analysis of audio using STFT and SVD for signal compression and reconstruction.
 
-- **📊 Letterboxd Visualization**  
-  Scraping e análise de dados de filmes a partir do Letterboxd com visualizações em Python.
+📊 Letterboxd Visualization
 
----
+Scraped and analyzed movie data from Letterboxd, creating visualizations in Python.
 
-## 📚 Certificações
+🛠️ Tech Stack & Skills
+Languages: Python, C, SQL, HTML, C++, Java, R, CSS, Bash
 
-- Fundamentos de Engenharia de Dados – Data Science Academy (24h)  
-- Marketing e Vendas B2B – Coursera/USP (12h)
+Libraries/Frameworks: NumPy, Pandas, Matplotlib, Seaborn, SciPy
 
----
+Tools: Git/GitHub, Docker, Power BI, Excel, LaTeX, Linux, PostgreSQL, Apache Airflow
 
-## 🌐 Contato
+🌐 Connect with me
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-- 📧 E-mail: [gabriel.coutinho.chaves@usp.br](mailto:gabriel.coutinho.chaves@usp.br)  
-- 📞 Telefone: [+55 (16) 99798-5878](tel:+5516997985878)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielcoout)  
-- 🧑‍💻 [GitHub](https://github.com/gabrielcoout)  
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoout&layout=donut)](https://github.com/gabrielcoout/github-readme-stats)
-
-
-<div>
-  <center>
-  <a href="https://www.linkedin.com/in/gabrielcoout/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@gabriel.coutinho.chaves" alt="Medium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  </center>
-  </div>
+📊 GitHub Stats
