@@ -1,4 +1,4 @@
-## Sobre Mim
+## About me
 👋 Hi, I'm Gabriel! I'm an undergraduate student in Applied Mathematics and Computer Science at the University of São Paulo (USP).
 
 I'm passionate about optimization, statistics, data analysis, and programming. I'm currently seeking internship opportunities in data analysis, business intelligence, data engineering, or financial markets.
