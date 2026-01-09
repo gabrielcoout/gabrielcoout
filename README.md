@@ -1,30 +1,38 @@
 ## About me
-👋 Hi, I'm Gabriel! I'm an undergraduate student in Applied Mathematics and Computer Science at the University of São Paulo (USP).
 
-I'm passionate about optimization, statistics, data analysis, and programming. I'm currently seeking internship opportunities in data analysis, business intelligence, data engineering, or financial markets.
+Hi, I'm Gabriel Coutinho Chaves. I'm an undergraduate student in **Applied Mathematics and Scientific Computing** at the **University of São Paulo (USP – ICMC)**.
 
-## 💼 Experience
-**PEEG Fellow - Teaching Assistant @ University of São Paulo (USP) (Mar/2025 – Jun/2025)**
+My interests include **data analysis**, **statistics**, **optimization**, and **data engineering**. I am currently seeking **internship opportunities** in data analysis, business intelligence, data engineering, or quantitative/financial roles.
 
-Provided pedagogical support in laboratory classes and office hours, assisting undergraduate students in learning the C programming language.
+---
 
-**Statistics Project Analyst @ ICMC Júnior – USP (Sep/2024 – Present)**
+## Experience
 
-Developed sociometric analyses with Python, contributed to the open-source software Jamovi, and worked with Google Ads for marketing campaigns.
+**Statistics Project Advisor – ICMC Júnior (USP)**  
+*Sep 2024 – Present*  
+Worked on academic and applied statistics projects using Python, applied multivariate methods, developed custom modules for the open-source software **Jamovi**, and collaborated with marketing analytics using Google Ads. Tools included Docker, Linux, and Git.
 
-## 🛠️ Tech Stack & Skills
-Languages: Python, C, SQL, HTML, C++, Java, R, CSS, Bash
+**Teaching Assistant (PEEG Fellowship) – University of São Paulo**  
+*Mar 2025 – Jul 2025*  
+Provided pedagogical support in undergraduate programming courses, assisting students in laboratory classes and office hours focused on the **C programming language**.
 
-Libraries/Frameworks: NumPy, Pandas, Matplotlib, Seaborn, SciPy
+**Research Scholarship Holder (PUB) – University of São Paulo**  
+*Sep 2025 – Present*  
+Developing data pipelines from public sources, performing data cleaning and modeling, implementing SQL queries, and applying GIS and statistical models for accident prediction.
 
-Tools: Git/GitHub, Docker, Power BI, Excel, LaTeX, Linux, PostgreSQL, Apache Airflow
+---
 
-## 🌐 Connect with me
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+## Tech Stack
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoout&show_icons=true&hide_title=true&hide_border=true&cache_seconds=1800)
+**Languages:** Python, C, C++, SQL, R, Java, Bash  
+**Data & Scientific Computing:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn  
+**Tools:** Git/GitHub, Docker, Power BI, Excel, Linux, PostgreSQL, Apache Airflow, LaTeX  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoout&layout=compact&hide_border=true&cache_seconds=1800)
+---
 
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/gabrielcoout  
+- GitHub: https://github.com/gabrielcoout  
+- Kaggle: https://www.kaggle.com/gabrielcoutinhoc  
+- Email: gabriel.coutinho.chaves@usp.br
