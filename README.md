@@ -25,9 +25,7 @@ Tools: Git/GitHub, Docker, Power BI, Excel, LaTeX, Linux, PostgreSQL, Apache Air
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoout&show_icons=true&hide_title=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true)
-
- Email: gabriel.coutinho.chaves@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoout&layout=compact&hide_border=true)
 
