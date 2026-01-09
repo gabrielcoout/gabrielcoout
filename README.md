@@ -24,3 +24,10 @@ Tools: Git/GitHub, Docker, Power BI, Excel, LaTeX, Linux, PostgreSQL, Apache Air
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true)
+
+ Email: gabriel.coutinho.chaves@gmail.com
+
