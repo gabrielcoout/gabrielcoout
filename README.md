@@ -2,8 +2,6 @@
 
 Hi, I'm Gabriel Coutinho Chaves. I'm an undergraduate student in **Applied Mathematics and Scientific Computing** at the **University of São Paulo (USP – ICMC)**.
 
-My interests include **data analysis**, **statistics**, **optimization**, and **data engineering**. I am currently seeking **internship opportunities** in data analysis, business intelligence, data engineering, or quantitative/financial roles.
-
 ---
 
 ## Experience
@@ -19,14 +17,6 @@ Provided pedagogical support in undergraduate programming courses, assisting stu
 **Research Scholarship Holder (PUB) – University of São Paulo**  
 *Sep 2025 – Present*  
 Developing data pipelines from public sources, performing data cleaning and modeling, implementing SQL queries, and applying GIS and statistical models for accident prediction.
-
----
-
-## Tech Stack
-
-**Languages:** Python, C, C++, SQL, R, Java, Bash  
-**Data & Scientific Computing:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn  
-**Tools:** Git/GitHub, Docker, Power BI, Excel, Linux, PostgreSQL, Apache Airflow, LaTeX  
 
 ---
 
